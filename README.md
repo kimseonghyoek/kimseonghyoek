@@ -1,3 +1,5 @@
+👋 Hi there!! I'm Web Developer and Studying mobile application development. 🏠
+
 
 <h1>🛠️Technology Stack🛠️</h1>
 
