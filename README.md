@@ -1,6 +1,5 @@
 <h1>Who am I ??⚽</h1>
 👋 Hi there!! I'm Web Developer and Studying mobile application development. 🏠<br>
-The technique I Use often is Vue.js!! but I'm still studying.😂 Anyway Yes!
 <hr>
 
 
