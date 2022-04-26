@@ -1,13 +1,3 @@
-<h1>Who am I ??⚽</h1>
-👋 Hi there!! I'm Web Developer and Studying mobile application development. 🏠<br>
-<hr>
-
-
-
-I enjoy football⚽, eat hambuger🍔, listen to music!! <br>
-I hope greatest developer!
-
-
 <h1>🛠️Technology Stack🛠️</h1>
 
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
