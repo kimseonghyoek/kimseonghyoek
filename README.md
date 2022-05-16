@@ -1,4 +1,4 @@
-<h1>🛠️Technology Stack🛠️</h1>
+<h2>🛠️Technology Stack🛠️</h2>
 
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
 <img align="left" src="https://img.shields.io/badge/CSS3-1472B6?style=flat-square&logo=CSS3&logoColor=white"/>
