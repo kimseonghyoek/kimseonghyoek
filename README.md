@@ -11,4 +11,3 @@
 <br>
 
 ![Overlopers's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseonghyoek&show_icons=true)
-https://gist.github.com/kimseonghyoek/38e15b5d7a260dd94afc61ffbefeae76
