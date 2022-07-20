@@ -21,6 +21,7 @@ overloper0225@gmail.com
 <img align="left" src="https://img.shields.io/badge/Python-0273b7?style=flat-square&logo=Python&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/RDS-FF9800?style=flat-square&logo=AMAZON-AWS&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/EC2-FF9800?style=flat-square&logo=AMAZON-EC2&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/WEBPACK-1C78C0?style=flat-square&logo=WEBPACK&logoColor=white"> 
 
 <br>
