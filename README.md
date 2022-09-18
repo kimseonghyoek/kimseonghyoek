@@ -18,7 +18,7 @@ overloper0225@gmail.com
 <img align="left" src="https://img.shields.io/badge/EXPRESS-4A9542?style=flat-square&logo=EXPRESS&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img align="left"  src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Python-0273b7?style=flat-square&logo=Python&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Python-0273b7?style=flat-square&logo=Python&logoColor=white"/>  
 <img align="left" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/RDS-FF9800?style=flat-square&logo=AMAZON-AWS&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/EC2-FF9800?style=flat-square&logo=AMAZON-EC2&logoColor=white"/>
